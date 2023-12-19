@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
   <!-- Font Awesome -->
   <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <!-- Ionicons -->
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
   <!-- Tempusdominus Bootstrap 4 -->
@@ -105,7 +106,7 @@
   <!-- /.navbar -->
 
   <!-- Main Sidebar Container -->
-  <aside class="main-sidebar sidebar-dark-primary elevation-4 sidebar-no-expand" style="background-color: #679289;">
+  <aside class="main-sidebar sidebar-dark-primary elevation-4 sidebar-no-expand" style="background-color: #0975b7;">
     <!-- Brand Logo -->
     <a href="index.php" class="brand-link" style= "border-bottom: 1px solid white">
       <!-- <img src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-5" style="opacity: .9"> -->
@@ -126,16 +127,16 @@
 
           <li class="nav-item">
             <a href="?module=dashboard" class="nav-link">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <i class="nav-icon fa-solid fa-house"></i>
               <p>
-                Dashboard
+                Beranda
               </p>
             </a>
           </li>
           
           <li class="nav-item">
             <a href="?module=bayi_balita" class="nav-link">
-              <i class="nav-icon far fa-user"></i>
+              <i class="nav-icon fa-solid fa-baby"></i>
               <p>
                 Bayi & Balita
               </p>
@@ -144,7 +145,7 @@
 
           <li class="nav-item">
             <a href="?module=laki_remaja" class="nav-link">
-              <i class="nav-icon far fa-user"></i>
+              <i class="nav-icon fa-solid fa-person"></i>
               <p>
                 Remaja
               </p>
@@ -153,7 +154,7 @@
 
           <li class="nav-item">
             <a href="?module=dewasa" class="nav-link">
-              <i class="nav-icon far fa-user"></i>
+              <i class="nav-icon fa-solid fa-person"></i>
               <p>
                 Dewasa
               </p>
@@ -162,7 +163,7 @@
 
           <li class="nav-item">
             <a href="?module=ibu_hamil" class="nav-link">
-              <i class="nav-icon far fa-user"></i>
+              <i class="nav-icon fa-solid fa-person-pregnant"></i>
               <p>
                 Ibu Hamil
               </p>
@@ -240,7 +241,7 @@
   </div>
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>Copyright &copy; 2022 <a href="index.php">GoCeting</a>.</strong>
+    <strong>Copyright &copy; RM.2023 <a href="index.php">GoCeting</a>.</strong>
     All rights reserved.
     <!-- <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 1.0

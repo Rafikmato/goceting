@@ -31,7 +31,7 @@
                 <h3 style="text-align: center;" class="respon">Laki - Laki</h3>
               </div>
               <div class="icon">
-                <i class="ion ion-person"></i>
+                <i class="fa-solid fa-person"></i>
               </div>
               <a href="?module=umur_laki" class="small-box-footer">Pilih <i class="fas fa-arrow-circle-right"></i></a>
             </div>
@@ -43,7 +43,7 @@
                 <h3 style="text-align: center;" class="respon">Perempuan</h3>
               </div>
               <div class="icon">
-                <i class="ion ion-person"></i>
+                <i class="fa-solid fa-person-dress"></i>
               </div>
               <a href="?module=umur_perempuan" class="small-box-footer">Pilih <i class="fas fa-arrow-circle-right"></i></a>
             </div>

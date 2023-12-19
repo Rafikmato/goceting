@@ -24,24 +24,24 @@
     <div class="row">
          <div class="col-lg-6 col-6">
             <!-- small box -->
-            <div class="small-box bg-info">
+            <div class="small-box" style="background-color: #FF69B4; color: white;">
               <div class="inner">
                 <h3 style="text-align: center;" class="respon">0-24 Bulan</h3>
               </div>
               <div class="icon">
-                <i class="ion ion-person"></i>
+                <i class="fa-solid fa-person-dress"></i>
               </div>
               <a href="?module=perempuan" class="small-box-footer">Pilih <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
           <div class="col-lg-6 col-6">
             <!-- small box -->
-            <div class="small-box bg-info">
+            <div class="small-box" style="background-color: #FF69B4; color: white;">
               <div class="inner">
                <h3 style="text-align: center;" class="respon">24-60 Bulan</h3>
               </div>
               <div class="icon">
-                <i class="ion ion-person"></i>
+                <i class="fa-solid fa-person-dress"></i>
               </div>
               <a href="?module=2sampai5thn_perempuan" class="small-box-footer">Pilih <i class="fas fa-arrow-circle-right"></i></a>
             </div>
