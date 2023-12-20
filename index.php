@@ -69,6 +69,7 @@
 
 .jdl {
   transition: 1s ease-in-out;
+  color: white;
 }
 
     @media screen and (max-width: 680px){
@@ -112,7 +113,7 @@
       <!-- <img src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-5" style="opacity: .9"> -->
       <!-- <i class="fas fa-laugh-wink"></i> -->
       <center>
-        <span class="font-weight-light jdl" style="margin-top: 50px !important;">GOCETING<p class="kecil">Gorontalo Cegah Stunting</p></span> 
+        <span class="font-weight-bold jdl" style="margin-top: 50px !important;">GOCETING<p class="kecil">Gorontalo Cegah Stunting</p></span> 
       </center>
       
     </a>
@@ -145,7 +146,7 @@
 
           <li class="nav-item">
             <a href="?module=laki_remaja" class="nav-link">
-              <i class="nav-icon fa-solid fa-person"></i>
+              <i class="nav-icon fa-solid fa-child"></i>
               <p>
                 Remaja
               </p>

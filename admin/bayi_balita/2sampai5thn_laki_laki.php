@@ -104,6 +104,10 @@
 	                <label for="berat_badan">Tinggi Badan / Panjang Badan</label>
 	                <input type="text" required="" placeholder="cth : 1.9" name="berat_badan" id="berat_badan" class="form-control">
 	              </div>
+                <div class="form-group">
+	                <label for="berat_badan">Hasil</label>
+	                <input type="text" readonly="" value="" name="imt" id="imt" class="form-control">
+	              </div>
 	               <div class="row">
 			        <div class="col-12">
 			          <input type="reset" value="Reset" class="btn btn-secondary">
